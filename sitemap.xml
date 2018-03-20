@@ -13,17 +13,6 @@
   </url>
   
   <url>
-    <loc>http://zhutao.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhutao.github.io/</loc>
-    <lastmod>2018-03-20T19:11:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://zhutao.github.io/post/</loc>
     <lastmod>2018-03-20T19:11:45+08:00</lastmod>
     <priority>0</priority>
@@ -31,6 +20,17 @@
   
   <url>
     <loc>http://zhutao.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhutao.github.io/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhutao.github.io/</loc>
+    <lastmod>2018-03-20T19:11:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   
