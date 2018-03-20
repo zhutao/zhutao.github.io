@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://zhutao.github.io/post/first/</loc>
+    <loc>https://zhutao.github.io/post/first/</loc>
     <lastmod>2018-03-20T19:11:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://zhutao.github.io/about/</loc>
+    <loc>https://zhutao.github.io/about/</loc>
     <lastmod>2018-03-20T19:09:41+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://zhutao.github.io/post/</loc>
+    <loc>https://zhutao.github.io/post/</loc>
     <lastmod>2018-03-20T19:11:45+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://zhutao.github.io/tags/</loc>
+    <loc>https://zhutao.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://zhutao.github.io/topics/</loc>
+    <loc>https://zhutao.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://zhutao.github.io/</loc>
+    <loc>https://zhutao.github.io/</loc>
     <lastmod>2018-03-20T19:11:45+08:00</lastmod>
     <priority>0</priority>
   </url>
