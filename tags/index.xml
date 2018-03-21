@@ -5,10 +5,66 @@
     <link>https://zhutao.github.io/tags/</link>
     <description>Recent content in Tags on 随机漫步</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
     <copyright>&amp;copy; 2018 zhutao. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 20 Mar 2018 19:11:45 +0800</lastBuildDate>
     
 	<atom:link href="https://zhutao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://zhutao.github.io/tags/markdown/</link>
+      <pubDate>Tue, 20 Mar 2018 19:11:45 +0800</pubDate>
+      
+      <guid>https://zhutao.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://zhutao.github.io/tags/technology/</link>
+      <pubDate>Tue, 20 Mar 2018 19:11:45 +0800</pubDate>
+      
+      <guid>https://zhutao.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文化</title>
+      <link>https://zhutao.github.io/tags/%E6%96%87%E5%8C%96/</link>
+      <pubDate>Wed, 21 Mar 2018 20:43:18 +0800</pubDate>
+      
+      <guid>https://zhutao.github.io/tags/%E6%96%87%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电影</title>
+      <link>https://zhutao.github.io/tags/%E7%94%B5%E5%BD%B1/</link>
+      <pubDate>Wed, 21 Mar 2018 20:27:47 +0800</pubDate>
+      
+      <guid>https://zhutao.github.io/tags/%E7%94%B5%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>绘画</title>
+      <link>https://zhutao.github.io/tags/%E7%BB%98%E7%94%BB/</link>
+      <pubDate>Wed, 21 Mar 2018 20:36:16 +0800</pubDate>
+      
+      <guid>https://zhutao.github.io/tags/%E7%BB%98%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>艺术</title>
+      <link>https://zhutao.github.io/tags/%E8%89%BA%E6%9C%AF/</link>
+      <pubDate>Wed, 21 Mar 2018 20:36:16 +0800</pubDate>
+      
+      <guid>https://zhutao.github.io/tags/%E8%89%BA%E6%9C%AF/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

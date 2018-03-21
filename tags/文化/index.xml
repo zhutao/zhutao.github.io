@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随机漫步</title>
-    <link>https://zhutao.github.io/</link>
-    <description>Recent content on 随机漫步</description>
+    <title>文化 on 随机漫步</title>
+    <link>https://zhutao.github.io/tags/%E6%96%87%E5%8C%96/</link>
+    <description>Recent content in 文化 on 随机漫步</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2018 zhutao. All rights reserved.</copyright>
     <lastBuildDate>Wed, 21 Mar 2018 20:43:18 +0800</lastBuildDate>
     
-	<atom:link href="https://zhutao.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhutao.github.io/tags/%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -64,36 +64,6 @@
 如果将宫崎骏的作品进行分类，可以看出作者思想的广阔和深邃，《风之谷》，《幽灵公主》主要体现人类和自然之间的矛盾，也从中看到了作者的思想变化，从批判和祝愿到后来的无奈和妥协。《天空之城》，《哈尔的移动城堡》主要体现了人与人之间的矛盾，是作者对社会的一种解释和期望。《魔女宅急便》，《龙猫》，《千与千寻》是作者回归生活的体现，作者展现的不再是史诗般的恢弘和思想深处的矛盾，而是面对周围人的生活，面对成长的烦恼，对亲情、友情和爱情的赞美和向往，给予大众温馨而朴素的感动。《红猪》有着作者自身太多的期许，意义不同与其他作品，是作者自己内心的平静表达，也是一副成人童话的完美再现。
 宫崎骏的动画电影已经成为世界电影中不可取代的一部分，他将动画电影的表现形式提高到了一个前所未有的层次，因为它没有好莱坞动画电影那样的商业味十足，但却依然能够吸引观众，并且从他的作品中大量的揭示着深刻的现实问题，也通过一种缓和的方式向人们传达着真、善、美这些人类最为纯真的感情。宫崎骏对于动画电影发展所作出的贡献是革命性的，他用自己独特的方式向我们展现着美好，提醒人们真正的危险，也宣扬着一种主张——越是想改变别人的时候，自身越是要平和，呐喊有时会让懦弱的人掩住耳朵。
 提到宫崎骏的动画就不能不说久石让，关于久石让的配乐，我无法用语言表达！</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://zhutao.github.io/contact/</link>
-      <pubDate>Wed, 21 Mar 2018 17:06:53 +0800</pubDate>
-      
-      <guid>https://zhutao.github.io/contact/</guid>
-      <description> zhutaoivy@gmail.com </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://zhutao.github.io/about/</link>
-      <pubDate>Wed, 21 Mar 2018 17:06:42 +0800</pubDate>
-      
-      <guid>https://zhutao.github.io/about/</guid>
-      <description> 这是朱韬的个人博客 </description>
-    </item>
-    
-    <item>
-      <title>Markdown语法说明</title>
-      <link>https://zhutao.github.io/post/markdown-syntax/</link>
-      <pubDate>Tue, 20 Mar 2018 19:11:45 +0800</pubDate>
-      
-      <guid>https://zhutao.github.io/post/markdown-syntax/</guid>
-      <description>Markdown 文件 NOTE: This is Traditional Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to Markdown: Syntax.
-Markdown: Syntax  概述  哲學 行內 HTML 特殊字元自動轉換  區塊元素  段落和換行 標題 區塊引言 清單 程式碼區塊 分隔線  區段元素  連結 強調 程式碼 圖片  其它  跳脫字元 自動連結  感謝  注意：這份文件是用 Markdown 寫的，你可以看看它的原始檔 。
-概述 哲學 Markdown 的目標是實現「易讀易寫」。
-不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。Markdown 語法受到一些既有 text-to-HTML 格式的影響，包括 Setext、atx、Textile、reStructuredText、Grutatext 和 EtText，然而最大靈感來源其實是純文字的電子郵件格式。</description>
     </item>
     
   </channel>
